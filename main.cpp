@@ -1,7 +1,7 @@
 #anthor    flyfish002
 #date      2017/09/25
 #version   QT 5.5.0 msvc 2013,32bit
-#reason    just for test
+#reason    just for  QTdemo1  test
 #include "dialog.h"
 #include <QApplication>
 
